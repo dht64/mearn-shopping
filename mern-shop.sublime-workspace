@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"texdec",
+				"text-decoration\tproperty"
+			],
+			[
+				"sapc",
+				"space-between\tjustify-content"
+			],
+			[
+				"cen",
+				"justify-content\tproperty"
+			],
+			[
+				"boxs",
+				"box-sizing\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"attach",
+				"attachImage〔function〕"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"image",
+				"imageName"
+			],
+			[
+				"py",
+				"pyAutoGui"
+			],
+			[
+				"DMT2",
+				"DMT21A"
+			],
+			[
+				"scrap",
+				"scrapTable"
+			],
+			[
+				"scrapTable",
+				"scrapTable.to_csv('lowVoc"
+			],
+			[
+				"sub",
+				"subidTablehtml〔variable〕"
+			],
+			[
+				"subid",
+				"subidTablehtml"
+			],
+			[
+				"subdi",
+				"subidSqlString〔variable〕"
+			],
+			[
+				"query",
+				"queryData〔function〕"
+			],
+			[
+				"q",
+				"queryData"
+			],
+			[
+				"scap",
+				"scrapTable"
+			],
+			[
+				"tota",
+				"total_order"
+			],
+			[
+				"tot",
+				"total_order"
+			],
+			[
+				"creat",
+				"created_at__month"
+			],
+			[
+				"cre",
+				"created_at__year"
+			],
+			[
+				"timeel",
+				"timedelta〔module〕"
+			],
+			[
+				"time",
+				"timezone〔module〕"
+			],
+			[
+				"cs",
+				"csrf_exempt"
+			],
+			[
+				"Order",
+				"OrderSerializer"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"OrderDe",
+				"OrderDetailsSerializer〔class〕"
+			],
+			[
+				"OrderD",
+				"OrderDriverSerializer〔class〕"
+			],
+			[
+				"Res",
+				"Restaurant〔module〕"
+			],
+			[
+				"Or",
+				"OrderDetails〔class〕"
+			],
+			[
+				"no",
+				"notification〔variable〕"
+			],
+			[
+				"resta",
+				"restaurant"
+			],
+			[
+				"res",
+				"restaurants"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"restau",
+				"restaurant_id"
+			],
+			[
+				"order_",
+				"order_details"
+			],
+			[
+				"Meal",
+				"MealSerializer〔class〕"
+			],
+			[
+				"O",
+				"OrderDetails〔class〕"
+			],
+			[
+				"F",
+				"ForeignKey"
+			],
+			[
+				"Mea",
+				"MealForm〔class〕"
+			],
+			[
+				"boots",
+				"bootstrap_form"
+			],
+			[
+				"user",
+				"user_form"
+			],
+			[
+				"UserFor",
+				"UserFormEdit〔module〕"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"text-",
+				"text-uppercase"
+			],
+			[
+				"use",
+				"user_id"
+			],
+			[
+				"food",
+				"foodtaskerapp〔module〕"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"new",
+				"new_user〔variable〕"
+			],
+			[
+				"User",
+				"UserForm〔module〕"
+			],
+			[
+				"restu",
+				"restaurant"
+			],
+			[
+				"auth",
+				"auth_views"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/mern-shop"
+	],
+	"file_history":
+	[
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/WhatsAppBot/pyAutoGui/colours_and_positions.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/WhatsAppBot/pyAutoGui/main.py",
+		"/C/Users/FS120778/OneDrive - First Solar/Integration/Prorate-Derate/2020-WW48-DMT2-ARC_JsonFile.json",
+		"/C/xampp/htdocs/html-playground/Responsive Glassmorphism Card/style.css",
+		"/C/xampp/htdocs/html-playground/Responsive Glassmorphism Card/index.html",
+		"/C/xampp/htdocs/laravel_lavina-erp-master/composer.json",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/INT-AutoReport.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/DEPTH-Metro-IBASampleIssue.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/SML-preVTDWasher-FlowOff.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/SML-NPR-UVOff.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/DEPTH-Metro-WavingScratches.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/FIN-SimHipot-EffIVAlarm.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/SML-Laser-InlineELScrap.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/FIN-SimHipot-DerateAlarm.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT_Automation/ARC_Percentage.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/FIN-SimHipot-Deratelarm-Log.txt",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/SML-Laser-InlineELScrap-Log.txt",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/SML-CdCl-GelNonCoat.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/SML-AE-AcidEtchScrap.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/FIN-SimHipot-EffIVAlarm-Log.txt",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/DEPTH-Metro-CCMProbeIssue.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/DEPTH-Metro-CCMProbeIssue-Log.txt",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/FIN-Framing-LooseScrew-v2.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/FIN-SimHipot-BinSelection.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/FIN-Framing-LooseScrew.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/SML-CdCl-GelNonCoat-Log.txt",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/FIN-SimHipot-BinSelection.bat",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/SML-AE-IncompleteEdge.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/DEPTH-Metro-FS200VIOverflow.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/myProgramLog.txt",
+		"/C/Users/FS120778/Desktop/2020-WW48-DMT2-ARC_JsonFile.json",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/Yield_Auto_Update_Whatsapp/Yield_Auto_Update_Whatsapp.py",
+		"/C/Users/FS120778/Documents/bookmark-13Dec2018.htm",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/Yield_Auto_Update_Whatsapp/KunKun.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT1 Automation system/LowVoc.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/base.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/meal.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/serializers.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/base.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtasker/settings.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/models.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/apps.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtasker/urls.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/social_auth_pipeline.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/runtime.txt",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/order.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/views.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/account.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/report.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/base_signup.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/sign_in.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/static/css/style.css",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/sign_up.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/forms.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/edit_meal.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/add_meal.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/admin.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/requirements.txt",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/Procfile",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT1 Automation system/FIN2ESScrap-DMT1.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT1 Automation system/P1Alarm-DMT1.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT1 Automation system/NPROutOfSpecThickness.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtasker/wsgi.py",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/home.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/home.html",
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/.gitignore",
+		"/C/Users/FS120778/Downloads/Duy Nghia/index.html",
+		"/C/Users/FS120778/Downloads/Duy Nghia/index.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mern-shop.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"oauth",
+				"foodtaskerapp\\social_auth_pipeline.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
