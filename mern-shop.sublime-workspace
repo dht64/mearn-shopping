@@ -395,24 +395,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "frontend/src/screens/ProfileScreen.js",
-			"settings":
-			{
-				"buffer_size": 2876,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "frontend/src/actions/userActions.js",
-			"settings":
-			{
-				"buffer_size": 2990,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -479,26 +461,25 @@
 	"expanded_folders":
 	[
 		"/C/xampp/htdocs/mern-shop",
-		"/C/xampp/htdocs/mern-shop/backend",
-		"/C/xampp/htdocs/mern-shop/backend/controllers",
-		"/C/xampp/htdocs/mern-shop/backend/routes",
-		"/C/xampp/htdocs/mern-shop/frontend",
-		"/C/xampp/htdocs/mern-shop/frontend/src",
-		"/C/xampp/htdocs/mern-shop/frontend/src/actions",
-		"/C/xampp/htdocs/mern-shop/frontend/src/constants",
-		"/C/xampp/htdocs/mern-shop/frontend/src/reducers",
-		"/C/xampp/htdocs/mern-shop/frontend/src/screens"
+		"/C/xampp/htdocs/mern-shop/backend"
 	],
 	"file_history":
 	[
+		"/C/Users/huutung/Downloads/Downloads 10 (2021)/Justice.League.Snyders.Cut.2021.1080p.WEBRip.x265-RARBG/RARBG_DO_NOT_MIRROR.txt",
+		"/C/xampp/htdocs/Outfiz/40_Development/20_Sourcecode/30_Source/Outfiz.WebUI/spo/pages/api/hello.js",
+		"/C/xampp/htdocs/Outfiz/40_Development/20_Sourcecode/30_Source/Outfiz.WebUI/spo/package.json",
+		"/C/xampp/htdocs/Outfiz/40_Development/60_Deployment/10_Source/create-image.sh",
+		"/C/xampp/htdocs/mern-shop/backend/models/userModel.js",
+		"/C/xampp/htdocs/mern-shop/backend/routes/userRoutes.js",
+		"/C/xampp/htdocs/mern-shop/backend/controllers/userController.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/ProfileScreen.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/HomeScreen.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/components/Product.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/actions/userActions.js",
 		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/INT-AutoReport.py",
 		"/C/xampp/htdocs/mern-shop/frontend/src/store.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/reducers/userReducers.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/actions/userActions.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/screens/ProfileScreen.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/constants/userConstants.js",
-		"/C/xampp/htdocs/mern-shop/backend/controllers/userController.js",
-		"/C/xampp/htdocs/mern-shop/backend/routes/userRoutes.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/App.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/reducers/productReducers.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/screens/LoginScreen.js",
@@ -511,7 +492,6 @@
 		"/C/xampp/htdocs/mern-shop/frontend/src/components/FormContainer.js",
 		"/C/xampp/htdocs/mern-shop/backend/middleware/authMiddleware.js",
 		"/C/xampp/htdocs/mern-shop/backend/server.js",
-		"/C/xampp/htdocs/mern-shop/backend/models/userModel.js",
 		"/C/xampp/htdocs/mern-shop/backend/utils/generateToken.js",
 		"/C/xampp/htdocs/mern-shop/.env",
 		"/C/xampp/htdocs/mern-shop/backend/routes/productRoutes.js",
@@ -525,7 +505,6 @@
 		"/C/xampp/htdocs/mern-shop/frontend/src/components/Loader.js",
 		"/C/xampp/htdocs/mern-shop/backend/config/db.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/constants/productConstants.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/screens/HomeScreen.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/components/Message.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/index.js",
 		"/C/xampp/htdocs/mern-shop/backend/middleware/errorMiddleware.js",
@@ -536,7 +515,6 @@
 		"/C/xampp/htdocs/mern-shop/frontend/public/index.html",
 		"/C/xampp/htdocs/mern-shop/frontend/package.json",
 		"/C/xampp/htdocs/mern-shop/frontend/src/components/Rating.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/components/Product.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/products.js",
 		"/C/xampp/htdocs/mern-shop/.gitignore",
 		"/C/xampp/htdocs/mern-shop/frontend/src/components/Footer.js",
@@ -690,247 +668,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "frontend/src/screens/ProfileScreen.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2876,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1058,
-								1058
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1191,
-										1192
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										1057,
-										1058
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 232.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "frontend/src/actions/userActions.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2990,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1729,
-								1729
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-									"1":
-									[
-										1728,
-										1729
-									]
-								},
-								"icon":
-								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/curly_bracket.png",
-										"region.purplish"
-									]
-								},
-								"open":
-								{
-									"1":
-									[
-										1573,
-										1574
-									]
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1242.4,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
