@@ -4,16 +4,140 @@
 		"selected_items":
 		[
 			[
+				"USER_DETA",
+				"USER_DETAILS_RESET"
+			],
+			[
+				"error",
+				"errorOrders"
+			],
+			[
+				"loading",
+				"loadingOrders"
+			],
+			[
+				"ORDER_LIST_MY_",
+				"ORDER_LIST_MY_FAIL"
+			],
+			[
+				"ORDER_LIST_MY",
+				"ORDER_LIST_MY_FAIL"
+			],
+			[
+				"ORDER_LIST",
+				"ORDER_LIST_MY_SUCCESS"
+			],
+			[
+				"get",
+				"getMyOrders"
+			],
+			[
+				"order",
+				"orderId"
+			],
+			[
+				"succe",
+				"successPaymentHandler"
+			],
+			[
+				"Pay",
+				"PayPalButton"
+			],
+			[
+				"su",
+				"successPay"
+			],
+			[
+				"useS",
+				"useState"
+			],
+			[
+				"ORDER_PAY",
+				"ORDER_PAY_FAIL"
+			],
+			[
+				"ORDER_PA",
+				"ORDER_PAY_SUCCESS"
+			],
+			[
+				"orderPa",
+				"orderPayReducer"
+			],
+			[
+				"ORDER",
+				"ORDER_PAY_FAIL"
+			],
+			[
+				"update",
+				"updateOrderToPaid"
+			],
+			[
+				"orderD",
+				"orderDetailsReducer"
+			],
+			[
+				"shi",
+				"shippingPrice"
+			],
+			[
+				"iem",
+				"itemsPrice"
+			],
+			[
+				"use",
+				"useDispatch"
+			],
+			[
+				"ORDE",
+				"ORDER_CREATE_SUCCESS"
+			],
+			[
+				"item",
+				"itemsPrice"
+			],
+			[
+				"ship",
+				"shippingPrice"
+			],
+			[
+				"Place",
+				"placeOrderHandler"
+			],
+			[
+				"CART",
+				"CART_SAVE_PAYMENT_METHOD"
+			],
+			[
+				"CAR",
+				"CART_SAVE_SHIPPING_ADDRESS"
+			],
+			[
+				"pay",
+				"paymentMethod"
+			],
+			[
+				"co",
+				"country"
+			],
+			[
+				"postal",
+				"postalCode"
+			],
+			[
+				"subm",
+				"submitHandler"
+			],
+			[
+				"For",
+				"FormContainer"
+			],
+			[
 				"userUpdate",
 				"userUpdateProfileReducer"
 			],
 			[
 				"USER_UP",
 				"USER_UPDATE_PROFILE_FAIL"
-			],
-			[
-				"update",
-				"updateUserProfile〔variable〕"
 			],
 			[
 				"conf",
@@ -56,10 +180,6 @@
 				"authorized"
 			],
 			[
-				"get",
-				"getUserProfile"
-			],
-			[
 				"getPro",
 				"getProducts"
 			],
@@ -74,10 +194,6 @@
 			[
 				"gets",
 				"getState"
-			],
-			[
-				"CART",
-				"CART_REMOVE_ITEM"
 			],
 			[
 				"cart",
@@ -288,10 +404,6 @@
 				"OrderSerializer"
 			],
 			[
-				"order",
-				"order_by"
-			],
-			[
 				"OrderDe",
 				"OrderDetailsSerializer〔class〕"
 			],
@@ -364,10 +476,6 @@
 				"text-uppercase"
 			],
 			[
-				"use",
-				"user_id"
-			],
-			[
 				"food",
 				"foodtaskerapp〔module〕"
 			],
@@ -425,7 +533,11 @@
 		[
 			[
 				"pack",
-				"Package Control: List Packages"
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
 			],
 			[
 				"package",
@@ -461,63 +573,78 @@
 	"expanded_folders":
 	[
 		"/C/xampp/htdocs/mern-shop",
-		"/C/xampp/htdocs/mern-shop/backend"
+		"/C/xampp/htdocs/mern-shop/backend",
+		"/C/xampp/htdocs/mern-shop/backend/utils",
+		"/C/xampp/htdocs/mern-shop/frontend",
+		"/C/xampp/htdocs/mern-shop/frontend/src"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/mern-shop/frontend/src/reducers/orderReducers.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/actions/userActions.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/actions/orderActions.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/ProfileScreen.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/constants/orderConstants.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/OrderScreen.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/constants/userConstants.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/reducers/userReducers.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/store.js",
+		"/C/xampp/htdocs/mern-shop/backend/routes/orderRoutes.js",
+		"/C/xampp/htdocs/mern-shop/backend/server.js",
+		"/C/xampp/htdocs/mern-shop/backend/controllers/orderController.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/PlaceOrderScreen.js",
+		"/C/xampp/htdocs/mern-shop/.env",
+		"/C/xampp/htdocs/mern-shop/backend/models/orderModel.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/App.js",
+		"/C/xampp/htdocs/mern-shop/backend/routes/userRoutes.js",
+		"/C/xampp/htdocs/mern-shop/backend/routes/productRoutes.js",
+		"/C/xampp/htdocs/mern-shop/backend/controllers/userController.js",
+		"/C/xampp/htdocs/mern-shop/backend/controllers/productController.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/components/CheckoutSteps.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/ShippingScreen.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/PaymentScreen.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/actions/cartActions.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/reducers/cartReducers.js",
+		"/C/Users/huutung/Downloads/Downloads 10 (2021)/Soft/IDM 6.38 build 18 incl Patch [32bit + 64bit][CrackingPatching]/Patch/64bit Patch.exe",
+		"/C/xampp/htdocs/mern-shop/frontend/src/constants/cartConstants.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/components/FormContainer.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/index.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/components/Footer.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/components/Header.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/RegisterScreen.js",
+		"/C/xampp/htdocs/mern-shop/backend/middleware/authMiddleware.js",
+		"/C/xampp/htdocs/mern-shop/backend/utils/generateToken.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/actions/productActions.js",
+		"/C/xampp/htdocs/mern-shop/frontend/public/index.html",
+		"/C/xampp/htdocs/mern-shop/frontend/src/index.css",
+		"/C/xampp/htdocs/mern-shop/frontend/src/bootstrap.min.css",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/LoginScreen.js",
+		"/C/xampp/htdocs/mern-shop/frontend/src/screens/CartScreen.js",
+		"/C/xampp/htdocs/mern-shop/backend/seeder.js",
+		"/C/xampp/htdocs/mern-shop/package.json",
+		"/C/xampp/htdocs/mern-shop/backend/models/userModel.js",
+		"/C/xampp/htdocs/mern-shop/backend/models/productModel.js",
+		"/C/xampp/htdocs/mern-shop/backend/data/products.js",
+		"/C/xampp/htdocs/mern-shop/.gitignore",
 		"/C/Users/huutung/Downloads/Downloads 10 (2021)/Justice.League.Snyders.Cut.2021.1080p.WEBRip.x265-RARBG/RARBG_DO_NOT_MIRROR.txt",
 		"/C/xampp/htdocs/Outfiz/40_Development/20_Sourcecode/30_Source/Outfiz.WebUI/spo/pages/api/hello.js",
 		"/C/xampp/htdocs/Outfiz/40_Development/20_Sourcecode/30_Source/Outfiz.WebUI/spo/package.json",
 		"/C/xampp/htdocs/Outfiz/40_Development/60_Deployment/10_Source/create-image.sh",
-		"/C/xampp/htdocs/mern-shop/backend/models/userModel.js",
-		"/C/xampp/htdocs/mern-shop/backend/routes/userRoutes.js",
-		"/C/xampp/htdocs/mern-shop/backend/controllers/userController.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/screens/ProfileScreen.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/screens/HomeScreen.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/components/Product.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/actions/userActions.js",
 		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/INT-AutoReport.py",
-		"/C/xampp/htdocs/mern-shop/frontend/src/store.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/reducers/userReducers.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/constants/userConstants.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/App.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/reducers/productReducers.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/screens/LoginScreen.js",
-		"/C/xampp/htdocs/mern-shop/backend/controllers/productController.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/actions/productActions.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/screens/ProductScreen.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/components/Header.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/screens/RegisterScreen.js",
 		"/C/xampp/htdocs/mern-shop/frontend/README.md",
-		"/C/xampp/htdocs/mern-shop/frontend/src/components/FormContainer.js",
-		"/C/xampp/htdocs/mern-shop/backend/middleware/authMiddleware.js",
-		"/C/xampp/htdocs/mern-shop/backend/server.js",
-		"/C/xampp/htdocs/mern-shop/backend/utils/generateToken.js",
-		"/C/xampp/htdocs/mern-shop/.env",
-		"/C/xampp/htdocs/mern-shop/backend/routes/productRoutes.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/screens/CartScreen.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/actions/cartActions.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/reducers/cartReducers.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/constants/cartConstants.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/index.css",
-		"/C/xampp/htdocs/mern-shop/backend/models/productModel.js",
-		"/C/xampp/htdocs/mern-shop/backend/data/products.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/components/Loader.js",
 		"/C/xampp/htdocs/mern-shop/backend/config/db.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/constants/productConstants.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/components/Message.js",
-		"/C/xampp/htdocs/mern-shop/frontend/src/index.js",
 		"/C/xampp/htdocs/mern-shop/backend/middleware/errorMiddleware.js",
-		"/C/xampp/htdocs/mern-shop/backend/seeder.js",
-		"/C/xampp/htdocs/mern-shop/package.json",
 		"/C/xampp/htdocs/mern-shop/backend/data/users.js",
-		"/C/xampp/htdocs/mern-shop/backend/models/orderModel.js",
-		"/C/xampp/htdocs/mern-shop/frontend/public/index.html",
 		"/C/xampp/htdocs/mern-shop/frontend/package.json",
 		"/C/xampp/htdocs/mern-shop/frontend/src/components/Rating.js",
 		"/C/xampp/htdocs/mern-shop/frontend/src/products.js",
-		"/C/xampp/htdocs/mern-shop/.gitignore",
-		"/C/xampp/htdocs/mern-shop/frontend/src/components/Footer.js",
 		"/C/xampp/htdocs/mern-shop/frontend/.gitignore",
 		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/WhatsAppBot/pyAutoGui/colours_and_positions.py",
 		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT2_Automation/WhatsAppBot/pyAutoGui/main.py",
@@ -580,12 +707,7 @@
 		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT1 Automation system/FIN2ESScrap-DMT1.py",
 		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT1 Automation system/P1Alarm-DMT1.py",
 		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/DMT1 Automation system/NPROutOfSpecThickness.py",
-		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtasker/wsgi.py",
-		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/restaurant/home.html",
-		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtaskerapp/templates/home.html",
-		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/.gitignore",
-		"/C/Users/FS120778/Downloads/Duy Nghia/index.html",
-		"/C/Users/FS120778/Downloads/Duy Nghia/index.js"
+		"/C/Users/FS120778/AppData/Local/Programs/Python/Python38-32/myProjects/foodtasker/foodtasker/wsgi.py"
 	],
 	"find":
 	{
@@ -603,6 +725,39 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"FAIL",
+			"PAY",
+			"place order",
+			"DETAILS",
+			"DETAILS_FAIL",
+			"orderItems",
+			"paid",
+			"Paid",
+			"Place",
+			"cart",
+			"Create",
+			"CheckoutSteps",
+			"CREATE",
+			"useState",
+			"USER_UPDATE_PROFILE",
+			"REQUEST",
+			"ORDER_CREATE_REQUEST",
+			"PaymentScreen",
+			"ShippingScreen",
+			"CheckoutSteps",
+			"FormContainer",
+			"address",
+			"Address",
+			"address",
+			"Address",
+			"address",
+			"name",
+			"Name",
+			"name",
+			"div",
+			"ProfileScreen",
+			"token",
+			"Bearer",
 			"DETAILS",
 			"UPDATE",
 			"FAIL",
